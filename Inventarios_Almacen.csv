@@ -1,0 +1,12 @@
+ID_Ubicacion,Producto,Inventario_Actual,Capacidad_Maxima,Abastecimiento_Minimo
+Almacen_Principal,Jabon_Zote_400g,8500,10000,0
+Almacen_Principal,Jabon_Roma_1kg,4800,5000,0
+Almacen_Principal,Corona_Granel,4500,5000,0
+Almacen_Principal,Detergente_Foca_500g,,4000,0
+Almacen_Principal,Aceite_1L,2000,3000,0
+CEDIS_Norte,Jabon_Zote_400g,400,2000,1200
+CEDIS_Norte,Jabon_Roma_1kg,1500,2000,1000
+CEDIS_Sur,Corona_Granel,4000,5000,500
+CEDIS_Sur,Detergente_Foca_500g,-200,3000,800
+CEDIS_Este,Aceite_1L,800,1500,300
+almacen_principal,Jabon_Zote_400g,6500,10000,0

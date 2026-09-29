@@ -1,0 +1,7 @@
+ID_Linea,Producto_Asignable,Horas_Turno_Disponibles,Tasa_Produccion_Por_Hora
+Linea_Ensamb_1,Jabon_Zote_400g,8.0,1000
+Linea_Ensamb_2,Jabon_Roma_1kg,8.0,850
+Linea_Granel,Corona_Granel,4.0,2000
+Linea_Liquidos_1,Aceite_1L,8.0,1500
+Linea_Ensamb_3,Detergente_Foca_500g,,900
+LINEA_GRANEL,Corona_Granel,4.0,2000
